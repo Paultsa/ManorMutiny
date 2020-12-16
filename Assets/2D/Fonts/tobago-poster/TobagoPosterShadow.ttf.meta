@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 32027f7c1ee50184592bbd55609d6a7a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tobago Poster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7114473ca9145cf478053f5d3d49b282, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

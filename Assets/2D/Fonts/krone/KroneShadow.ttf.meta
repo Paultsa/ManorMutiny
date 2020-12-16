@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7e746de0f72dbee4a9524b2651b9871a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Krone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b88b61b93df4984aac151945c70782e, type: 3}
+  - {fileID: 12800000, guid: 9d94f9fbc7610134db6f3f26d0852eb8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
